@@ -1,7 +1,7 @@
 # Set up instructions
 
 For this app, note the following values:
-- port-of-dash-app: `8050`
+- dash app port: `8050`
 - dash application entry point folder: `app`
 - dash application entry point file: `app/index_h.py`
 - dash application lib folder: `app/lib/`
