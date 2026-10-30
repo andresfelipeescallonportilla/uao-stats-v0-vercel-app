@@ -20,10 +20,9 @@ scripts have valuable information which made this project
 called "UAO Stats" possible, after integrating them in the
 aforementioned Dash app.
 
-That app is currently running on AWS EC2 gathering information
-from AWS RDS. 
+That app was running on AWS EC2 gathering information from AWS RDS (this is the old link: http://18.217.133.231:8050/) 
 
-- It is available at: http://18.217.133.231:8050/
+- Now the app is running on V0 by Vercel, available at: https://v0-uao-stats.vercel.app/
 
 
 # Dash application 
@@ -33,8 +32,8 @@ The scripts `index_h.py` or `index_ec2.py` can be used to run the app.
 
 # Links for Dash
 
-- https://plot.ly/dash/getting-started
-- https://towardsdatascience.com/how-to-embed-bootstrap-css-js-in-your-python-dash-app-8d95fc9e599e
+- https://dash.plotly.com/ (this is the old link: https://plot.ly/dash/getting-started)
+- https://www.google.com/search?q=how-to-embed-bootstrap-css-js-in-your-python-dash-app (this is the old link: https://towardsdatascience.com/how-to-embed-bootstrap-css-js-in-your-python-dash-app-8d95fc9e599e)
 
 
 
