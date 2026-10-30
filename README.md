@@ -6,13 +6,29 @@ It is a pleasure for me to have been part of the Team-18 that turned out to be a
 
 *Project: **Characterization and prediction of students’ population: Universidad Autónoma de Occidente - case of study**
 
-- Datafolio: https://bit.ly/uao-stats
+- Datafolio:
 
-- UAO Stats video presentation: https://lnkd.in/eSQk5SV
+  https://bit.ly/uao-stats
 
-- GitHub: https://github.com/felipeescallon/Data-Science-Project
+- UAO Stats video presentation:
 
-- App available and running on AWS EC2 at: http://18.217.133.231:8050/
+  https://lnkd.in/eSQk5SV
+
+- Original GitHub repo:
+
+  https://github.com/felipeescallon/Data-Science-Project
+  
+- Current GitHub repo for local deployment:
+
+  https://github.com/andresfelipeescallonportilla/uao-stats
+  
+- Current GitHub repo for deployment at V0 by Vercel:
+
+  https://github.com/andresfelipeescallonportilla/uao-stats-v0-vercel-app
+  
+- Deployed app (earlier at AWS EC2, now at V0 by Vercel):
+
+  https://v0-uao-stats.vercel.app
 
 
 *See my credential at: https://www.credential.net/a36936cf-77d0-43ec-95d5-7a47610d8e7c
