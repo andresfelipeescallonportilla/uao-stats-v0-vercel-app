@@ -1,0 +1,12 @@
+dash>=2.17,<3
+dash-bootstrap-components==0.13.1
+plotly
+pandas
+numpy
+scikit-learn
+folium
+sqlalchemy>=2
+psycopg[binary]>=3.1
+flask
+werkzeug
+setuptools<81
