@@ -1,7 +1,7 @@
 # Set up instructions
 
 For this app, note the following values:
-- <port-of-dash-app>: `8050`
+- port-of-dash-app: `8050`
 - dash application entry point folder: `app`
 - dash application entry point file: `app/index_h.py`
 - dash application lib folder: `app/lib/`
@@ -57,6 +57,18 @@ Unesco. (2020, May 13). COVID-19 y educación superior: De los efectos inmediato
 # Appendix
 
 All the Backend/Frontend code can be reached at: 
-https://github.com/felipeescallon?tab=projects
+
+- Repo GitHub original:
+
+  https://github.com/felipeescallon/Data-Science-Project
+  
+- Repo GitHub actual para despliegue local:
+
+  https://github.com/andresfelipeescallonportilla/uao-stats
+  
+- Repo GitHub actual para despliegue en V0 by Vercel:
+
+  https://github.com/andresfelipeescallonportilla/uao-stats-v0-vercel-app
+
 
 
